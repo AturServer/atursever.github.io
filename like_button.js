@@ -1,4 +1,4 @@
-'use strict';
+/*'use strict';
 
 const e = React.createElement;
 
@@ -31,3 +31,4 @@ document.querySelectorAll('.like_button_container')
       domContainer
     );
   });
+*/
